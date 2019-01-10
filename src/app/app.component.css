@@ -1,0 +1,18 @@
+.card {
+  background: #fff;
+  box-shadow: 0.5em 0 1.25em #ccc;
+  border-radius: .3em;
+  overflow: hidden;
+  max-width: 20em;
+  height: 450px;
+  margin: 0auto;
+  display: block;
+}
+
+.title {
+  text-align: center;
+}
+
+.container {
+  width: 100%;
+}
